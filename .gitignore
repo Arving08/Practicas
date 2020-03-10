@@ -4,6 +4,8 @@ build/
 nbbuild/
 dist/
 nbdist/
+nbproject/*
+build/*
 nbactions.xml
 nb-configuration.xml
 
